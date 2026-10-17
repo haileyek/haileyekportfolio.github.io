@@ -449,5 +449,10 @@ window.PORTFOLIO_PHOTOS = [
     "title": "Golden Hour Together",
     "category": "Life's Moments",
     "alt": "Golden Hour Together"
-  }
+  },
+  {"src":"IMG_0716.JPG","title":"Life's Moments 01","category":"Life's Moments","alt":"Life's Moments photograph"},
+  {"src":"IMG_1647.JPG","title":"Life's Moments 02","category":"Life's Moments","alt":"Life's Moments photograph"},
+  {"src":"IMG_2008.JPG","title":"Life's Moments 03","category":"Life's Moments","alt":"Life's Moments photograph"},
+  {"src":"IMG_2184.JPG","title":"Life's Moments 04","category":"Life's Moments","alt":"Life's Moments photograph"},
+  {"src":"IMG_4894.jpg","title":"Life's Moments 05","category":"Life's Moments","alt":"Life's Moments photograph"}
 ];
