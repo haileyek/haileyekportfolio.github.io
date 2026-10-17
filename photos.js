@@ -239,5 +239,215 @@ window.PORTFOLIO_PHOTOS = [
     "title": "Life on the Water",
     "category": "Life's Moments",
     "alt": "Life on the Water"
+  },
+  {
+    "src": "images/photo-41.jpg",
+    "title": "A Moment Together",
+    "category": "Life's Moments",
+    "alt": "A Moment Together"
+  },
+  {
+    "src": "images/photo-42.jpg",
+    "title": "A Story of Faith",
+    "category": "Life's Moments",
+    "alt": "A Story of Faith"
+  },
+  {
+    "src": "images/photo-43.jpg",
+    "title": "Portrait in Bloom",
+    "category": "Life's Moments",
+    "alt": "Portrait in Bloom"
+  },
+  {
+    "src": "images/photo-44.jpg",
+    "title": "The Flag and the Sea",
+    "category": "Life's Moments",
+    "alt": "The Flag and the Sea"
+  },
+  {
+    "src": "images/photo-45.jpg",
+    "title": "Friends in Bloom",
+    "category": "Life's Moments",
+    "alt": "Friends in Bloom"
+  },
+  {
+    "src": "images/photo-46.jpg",
+    "title": "A Coastal Celebration",
+    "category": "Life's Moments",
+    "alt": "A Coastal Celebration"
+  },
+  {
+    "src": "images/photo-47.jpg",
+    "title": "At the Memorial",
+    "category": "Faith & Storytelling",
+    "alt": "At the Memorial"
+  },
+  {
+    "src": "images/photo-48.jpg",
+    "title": "A Promise in Black and White",
+    "category": "Life's Moments",
+    "alt": "A Promise in Black and White"
+  },
+  {
+    "src": "images/photo-49.jpg",
+    "title": "Sunlit Streets",
+    "category": "Travel & Culture",
+    "alt": "Sunlit Streets"
+  },
+  {
+    "src": "images/photo-50.jpg",
+    "title": "Inside the Cathedral",
+    "category": "Architecture & Details",
+    "alt": "Inside the Cathedral"
+  },
+  {
+    "src": "images/photo-51.jpg",
+    "title": "A Quiet Embrace",
+    "category": "Life's Moments",
+    "alt": "A Quiet Embrace"
+  },
+  {
+    "src": "images/photo-52.jpg",
+    "title": "The Castle on the Hill",
+    "category": "Architecture & Details",
+    "alt": "The Castle on the Hill"
+  },
+  {
+    "src": "images/photo-53.jpg",
+    "title": "Stone and Water",
+    "category": "Architecture & Details",
+    "alt": "Stone and Water"
+  },
+  {
+    "src": "images/photo-54.jpg",
+    "title": "Across the Lake",
+    "category": "Travel & Culture",
+    "alt": "Across the Lake"
+  },
+  {
+    "src": "images/photo-55.jpg",
+    "title": "Swiss Horizons",
+    "category": "Travel & Culture",
+    "alt": "Swiss Horizons"
+  },
+  {
+    "src": "images/photo-56.jpg",
+    "title": "Still Waters",
+    "category": "Travel & Culture",
+    "alt": "Still Waters"
+  },
+  {
+    "src": "images/photo-57.jpg",
+    "title": "Autumn on the Mountainside",
+    "category": "Travel & Culture",
+    "alt": "Autumn on the Mountainside"
+  },
+  {
+    "src": "images/photo-58.jpg",
+    "title": "Into the Clouds",
+    "category": "Travel & Culture",
+    "alt": "Into the Clouds"
+  },
+  {
+    "src": "images/photo-59.jpg",
+    "title": "Together on the Journey",
+    "category": "Life's Moments",
+    "alt": "Together on the Journey"
+  },
+  {
+    "src": "images/photo-60.jpg",
+    "title": "Mountain Memories",
+    "category": "Travel & Culture",
+    "alt": "Mountain Memories"
+  },
+  {
+    "src": "images/photo-61.jpg",
+    "title": "Misty Peaks",
+    "category": "Travel & Culture",
+    "alt": "Misty Peaks"
+  },
+  {
+    "src": "images/photo-62.jpg",
+    "title": "Graduation Day",
+    "category": "Life's Moments",
+    "alt": "Graduation Day"
+  },
+  {
+    "src": "images/photo-63.jpg",
+    "title": "The Details of Graduation",
+    "category": "Life's Moments",
+    "alt": "The Details of Graduation"
+  },
+  {
+    "src": "images/photo-64.jpg",
+    "title": "A Milestone Shared",
+    "category": "Life's Moments",
+    "alt": "A Milestone Shared"
+  },
+  {
+    "src": "images/photo-65.jpg",
+    "title": "The Graduation Portrait",
+    "category": "Life's Moments",
+    "alt": "The Graduation Portrait"
+  },
+  {
+    "src": "images/photo-66.jpg",
+    "title": "Spring Portrait",
+    "category": "Life's Moments",
+    "alt": "Spring Portrait"
+  },
+  {
+    "src": "images/photo-67.jpg",
+    "title": "Among the Blossoms",
+    "category": "Life's Moments",
+    "alt": "Among the Blossoms"
+  },
+  {
+    "src": "images/photo-68.jpg",
+    "title": "An Autumn Proposal",
+    "category": "Life's Moments",
+    "alt": "An Autumn Proposal"
+  },
+  {
+    "src": "images/photo-69.jpg",
+    "title": "Just Engaged",
+    "category": "Life's Moments",
+    "alt": "Just Engaged"
+  },
+  {
+    "src": "images/photo-70.jpg",
+    "title": "A Kiss in Autumn",
+    "category": "Life's Moments",
+    "alt": "A Kiss in Autumn"
+  },
+  {
+    "src": "images/photo-71.jpg",
+    "title": "Winter Portrait",
+    "category": "Life's Moments",
+    "alt": "Winter Portrait"
+  },
+  {
+    "src": "images/photo-72.jpg",
+    "title": "Birthday in the Snow",
+    "category": "Life's Moments",
+    "alt": "Birthday in the Snow"
+  },
+  {
+    "src": "images/photo-73.jpg",
+    "title": "A Snowy Celebration",
+    "category": "Life's Moments",
+    "alt": "A Snowy Celebration"
+  },
+  {
+    "src": "images/photo-74.jpg",
+    "title": "A Wish for Twenty",
+    "category": "Life's Moments",
+    "alt": "A Wish for Twenty"
+  },
+  {
+    "src": "images/photo-75.jpg",
+    "title": "Golden Hour Together",
+    "category": "Life's Moments",
+    "alt": "Golden Hour Together"
   }
 ];
