@@ -450,9 +450,9 @@ window.PORTFOLIO_PHOTOS = [
     "category": "Life's Moments",
     "alt": "Golden Hour Together"
   },
-  {"src":"IMG_0716.JPG","title":"Life's Moments 01","category":"Life's Moments","alt":"Life's Moments photograph"},
-  {"src":"IMG_1647.JPG","title":"Life's Moments 02","category":"Life's Moments","alt":"Life's Moments photograph"},
-  {"src":"IMG_2008.JPG","title":"Life's Moments 03","category":"Life's Moments","alt":"Life's Moments photograph"},
-  {"src":"IMG_2184.JPG","title":"Life's Moments 04","category":"Life's Moments","alt":"Life's Moments photograph"},
-  {"src":"IMG_4894.jpg","title":"Life's Moments 05","category":"Life's Moments","alt":"Life's Moments photograph"}
+  {"src":"IMG_0716.JPG","title":"A Moment to Remember","category":"Life's Moments","alt":"Life's Moments photograph"},
+  {"src":"IMG_1647.JPG","title":"The Beauty in Between","category":"Life's Moments","alt":"Life's Moments photograph"},
+  {"src":"IMG_2008.JPG","title":"A Story Worth Keeping","category":"Life's Moments","alt":"Life's Moments photograph"},
+  {"src":"IMG_2184.JPG","title":"Little Moments, Lasting Memories","category":"Life's Moments","alt":"Life's Moments photograph"},
+  {"src":"IMG_4894.jpg","title":"The Joy of Being Here","category":"Life's Moments","alt":"Life's Moments photograph"}
 ];
