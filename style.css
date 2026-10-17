@@ -31,3 +31,16 @@
 
 /* Unified, filterable photography archive */
 .photography-unified .section-heading{margin-bottom:32px}.photo-filter-wrap{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap;margin-bottom:26px}.photo-filter-wrap .filter-bar{margin-bottom:0}.photo-gallery-count{font-size:11px;color:var(--muted);letter-spacing:.05em}.unified-gallery{margin-top:12px}.gallery-more-wrap{text-align:center;margin-top:30px}.gallery-more{border:1px solid var(--ink);padding:15px 27px;background:transparent;color:var(--ink);font-size:12px;letter-spacing:.09em}.gallery-more:hover{background:var(--ink);color:var(--bg)}.gallery-more[hidden]{display:none}.unified-gallery .photo{animation:gallery-appear .4s ease both}@keyframes gallery-appear{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}@media(prefers-reduced-motion:reduce){.unified-gallery .photo{animation:none}}
+
+/* Editorial color-blocking: full-bleed paper panels break up the beige canvas. */
+#featured,#photography,#content,#about,#contact{position:relative;isolation:isolate}
+#featured::before,#photography::before,#content::before,#about::before,#contact::before{content:"";position:absolute;top:0;bottom:0;left:50%;width:100vw;transform:translateX(-50%);z-index:-1;pointer-events:none}
+#featured::before{background:#fffdfa}
+#photography::before{background:#f1eee8}
+#content::before{background:#fffdfa}
+#about::before{background:#f0e7df}
+#contact::before{background:#fffdfa}
+#photography .section-heading{position:relative}
+#photography .section-heading::after{content:"";position:absolute;bottom:-19px;left:0;width:74px;height:2px;background:#b38e75}
+#about .eyebrow:first-child{color:#806553}
+@media(max-width:750px){#photography .section-heading::after{bottom:-14px}}
