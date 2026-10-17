@@ -22,3 +22,6 @@
 .about-portrait-photo img{display:block;width:100%;height:100%;position:absolute;inset:0;object-fit:cover;object-position:center}
 
 .about-philosophy .about-quote-author{font-size:12px;letter-spacing:.08em;color:var(--ink);margin:4px 0 26px}.about-philosophy .about-quote-reflection{max-width:680px;margin:0 auto;color:var(--muted);font-size:15px;line-height:1.95;letter-spacing:normal}
+
+/* Best in Show photo essay carousel */
+.featured-award-slide{grid-template-columns:minmax(0,1.18fr) minmax(0,1fr);min-height:610px}.featured-award-slide .featured-art{min-height:610px;background:#e9e0d5}.featured-award-slide .featured-art img{object-fit:contain}.featured-award-slide .featured-copy{padding:clamp(24px,3.5vw,55px)}.featured-award-slide .featured-copy h3{font-size:clamp(35px,3.6vw,57px);margin:18px 0 14px}.featured-award-slide .featured-series{font-family:'Libre Caslon Display',Georgia,serif;font-size:clamp(19px,2vw,25px);color:var(--ink);line-height:1.3;margin:0 0 14px}.featured-award-slide .featured-caption{font-size:13px;line-height:1.8;color:var(--muted);max-width:unset;margin:0}@media(max-width:850px){.featured-award-slide{grid-template-columns:1fr}.featured-award-slide .featured-art{min-height:400px;height:65vw;max-height:650px}.featured-award-slide .featured-copy{min-height:unset;padding:30px}.featured-award-slide .featured-copy h3{font-size:43px}}
