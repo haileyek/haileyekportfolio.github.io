@@ -291,7 +291,7 @@ window.PORTFOLIO_PHOTOS = [
   {
     "src": "images/photo-49.jpg",
     "title": "Sunlit Streets",
-    "category": "Travel & Culture",
+    "category": "Life\'s Moments",
     "alt": "Sunlit Streets"
   },
   {
@@ -357,7 +357,7 @@ window.PORTFOLIO_PHOTOS = [
   {
     "src": "images/photo-60.jpg",
     "title": "Mountain Memories",
-    "category": "Travel & Culture",
+    "category": "Life\'s Moments",
     "alt": "Mountain Memories"
   },
   {
