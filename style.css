@@ -28,3 +28,6 @@
 
 /* Separate the winning photograph from its three companion frames. */
 .featured-winning-slide .featured-kicker{font-weight:600;color:#7c5b40}.featured-companion-slide{background:#eee8df}.featured-companion-slide .featured-copy h3{font-size:clamp(38px,4vw,62px)}.featured-companion-note{font-size:14px;line-height:1.85;color:var(--muted);max-width:370px}
+
+/* Unified, filterable photography archive */
+.photography-unified .section-heading{margin-bottom:32px}.photo-filter-wrap{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap;margin-bottom:26px}.photo-filter-wrap .filter-bar{margin-bottom:0}.photo-gallery-count{font-size:11px;color:var(--muted);letter-spacing:.05em}.unified-gallery{margin-top:12px}.gallery-more-wrap{text-align:center;margin-top:30px}.gallery-more{border:1px solid var(--ink);padding:15px 27px;background:transparent;color:var(--ink);font-size:12px;letter-spacing:.09em}.gallery-more:hover{background:var(--ink);color:var(--bg)}.gallery-more[hidden]{display:none}.unified-gallery .photo{animation:gallery-appear .4s ease both}@keyframes gallery-appear{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}@media(prefers-reduced-motion:reduce){.unified-gallery .photo{animation:none}}
